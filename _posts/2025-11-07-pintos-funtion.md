@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025-11-07"
+title: "2025-11-07(pintos)"
 date: 2025-11-07 22:29:31 +0900
 categories: [KRAFTON JUNGLE]
 tags: [Programming]
